@@ -1,0 +1,64 @@
+img {
+    border: 15px solid black;
+}
+
+.navbar-nav {
+    font-size: 25px;
+    background-color: black;
+    width: 100%;
+    text-align: center;
+}
+body {
+    background-color: white;
+    color:black;
+    font-family: monospace;
+    text-align: center;
+}
+
+#places img {
+    width: 925px;
+    height: 600px;
+}
+h2 {
+    color:black;
+    font-family: monospace;
+    text-align: center;
+}
+
+.head1, .head2 {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.head1 i, .head2 i {
+    float: right;
+}
+
+.text span {
+    color: gold;
+}
+
+#rooms_span, #fun-kids_span {
+    background-color: black;
+    color: aliceblue;
+    width: 100%;
+    border-radius: 5px;
+}
+
+#canteen-desc {
+    width: 1000px;
+}
+
+#canteen {
+    align-items: center;
+}
+
+#attend-desc {
+    width: 1000px;
+}
+
+#attendance {
+    align-items: center;
+}
